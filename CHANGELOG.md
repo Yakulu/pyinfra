@@ -1,3 +1,9 @@
+# v1.4.0.dev0
+
++ Explicit fact imports
++ ... WIP
+
+
 # v1.3.10
 
 + Properly escape postgresql role/database/owner operation commands (@RobWouters)
